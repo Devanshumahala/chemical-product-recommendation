@@ -28,10 +28,6 @@ To help users with **dry skin** discover alternative skincare products that have
 - A scatterplot showing how different moisturizers relate based on t-SNE mapping.
 - A simple recommendation system: input a product name, get 5 similar alternatives.
 
-## 🔍 Example
-```python
-product_name = "Clear Genius Clarifying Gel Cleanser"
-
 🔗 Author
 Devanshu Mahala
 MedTourEasy Data Science Intern
